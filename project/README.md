@@ -244,7 +244,7 @@ src/
    ```
 
 4. **Access your app**:
-   `https://yourusername.github.io/your-repo-name/`
+   `https://github.com/youfesHR/qc-mobile-xray.git`
 
 The GitHub Actions workflow automatically:
 - Installs dependencies
@@ -345,7 +345,7 @@ MIT License - see LICENSE file for details
 ## Support
 For issues or questions:
 - Open an issue on GitHub
-- Contact: [your-email@example.com]
+- Contact: harbi.youssef@ieee.org
 
 ## Acknowledgments
 - Built with React, TypeScript, and Vite
